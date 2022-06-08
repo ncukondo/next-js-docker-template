@@ -1,5 +1,7 @@
 # next-js-docker-template
 
+This is a next-js-docker-template.
+
 To use this template type
 
 ```sh
@@ -15,7 +17,7 @@ rm -Rf .git
 ```
 
 
-This is a next-js-docker-template. Open dir in vscode, "Reopen in container".
+ Open dir in vscode, "Reopen in container".
 
 ```sh
 create-next-app
